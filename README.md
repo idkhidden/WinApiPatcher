@@ -6,3 +6,6 @@
 • 𝗕𝘀𝗼𝗱<br />
 • 𝗕𝗹𝗼𝗰𝗸𝗜𝗻𝗽𝘂𝘁<br />
 • 𝗙𝗶𝗻𝗱𝗪𝗶𝗻𝗱𝗼𝘄<br />
+
+# Showcase
+![image](https://github.com/idkhidden/Memory-Patcher/assets/91305428/18fa2b61-dc34-4617-9673-f493ea58c1d8)
