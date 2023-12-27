@@ -8,4 +8,5 @@ Simple Memory Patcher Made With API Hooking
 • FindWindow<br />
 
 # Showcase
-![image](https://github.com/idkhidden/Memory-Patcher/assets/91305428/18fa2b61-dc34-4617-9673-f493ea58c1d8)
+![image](https://github.com/idkhidden/Memory-Patcher/assets/91305428/81cdf59a-a74e-4297-b62c-0b3b64655d21)
+
