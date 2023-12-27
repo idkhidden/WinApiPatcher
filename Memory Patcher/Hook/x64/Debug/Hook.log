@@ -1,5 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\iboos\source\repos\Hook\Hook\dllmain.cpp(11,16): warning C4305: 'initializing': truncation from 'BOOL (__cdecl *)(BOOL)' to 'bool'
-  (compiling source file '/dllmain.cpp')
-  
-  Hook.vcxproj -> C:\Users\iboos\source\repos\Hook\x64\Debug\Hook.dll
