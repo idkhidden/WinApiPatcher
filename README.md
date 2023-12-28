@@ -1,5 +1,5 @@
 # Memory Patcher
-Memory Patcher is a straightforward tool leveraging API hooking to patch and modify certain behaviors in a targeted environment. This tool is designed to offer quick solutions for patching common issues, enhancing security, and modifying specific functions within a given system.
+Memory Patcher is a straightforward tool leveraging API hooking to patch and modify certain behaviors in a targeted environment.
 
 # Features
 • 𝗔𝗻𝘁𝗶 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 (𝗣𝗮𝗿𝘁𝗶𝗮𝗹): Disables specific anti-debugging mechanisms to facilitate debugging in certain scenarios.<br />
