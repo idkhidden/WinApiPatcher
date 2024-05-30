@@ -1,5 +1,5 @@
 # WinApi Patcher
-WinApi Patcher is a straight forward tool leveraging API hooking to patch and modify certain behaviors in a targeted environment.
+WinApi Patcher is a straight forward tool leveraging windows API hooking to patch and modify certain behaviors in a targeted environment.
 
 # Features
 • 𝗔𝗻𝘁𝗶 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴: Disables specific anti-debugging mechanisms to facilitate debugging in certain scenarios.<br />
