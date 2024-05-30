@@ -1,4 +1,4 @@
-# Api Patcher
+# WinApi Patcher
 Api Patcher is a straightforward tool leveraging API hooking to patch and modify certain behaviors in a targeted environment.
 
 # Features
