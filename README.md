@@ -11,4 +11,4 @@ WinApi Patcher is a straight forward tool leveraging windows API hooking to patc
 ![image](https://github.com/idkhidden/Memory-Patcher/assets/91305428/81cdf59a-a74e-4297-b62c-0b3b64655d21)
 
 ## License
-WinApiPatcher is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+WinApi Patcher is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
